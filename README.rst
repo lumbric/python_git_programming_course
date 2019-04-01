@@ -1,3 +1,6 @@
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/lumbric/python_git_programming_course/session2
+
 Programming using Python, GIT and others in science
 ===================================================
 
