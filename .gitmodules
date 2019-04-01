@@ -1,0 +1,3 @@
+[submodule "session1_git_and_workflow/git-games"]
+	path = session1_git_and_workflow/git-games
+	url = https://github.com/lumbric/git-games
