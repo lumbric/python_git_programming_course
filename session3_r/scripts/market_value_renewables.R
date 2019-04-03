@@ -5,6 +5,10 @@ library(ggplot2)
 library(tidyverse)
 library(wesanderson)
 
+### Set Working Directory - works in R-Studio only
+scriptDir<-dirname(rstudioapi::getActiveDocumentContext()$path)
+setwd(paste0(scriptDir,"/../"))
+
 # Download file from open power system data (opsd)
 
 opsd_filename<-"data/time_series_60min_singleindex.csv"
