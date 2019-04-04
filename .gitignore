@@ -39,3 +39,7 @@ coverage.xml
 
 # Pycharm
 .idea
+
+# data for r examples
+session3_r/data/time_series_60min_singleindex.csv
+
