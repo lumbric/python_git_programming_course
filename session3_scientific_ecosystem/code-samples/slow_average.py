@@ -13,7 +13,7 @@ from contexttimer import timer
 
 
 # will be modified, this is is not thread safe!
-cache = namedtuple('keys', 'values')
+cache = namedtuple('Cache', ('keys', 'values'))
 cache.keys = []
 cache.values = []
 
