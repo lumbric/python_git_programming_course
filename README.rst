@@ -15,34 +15,35 @@ Overview of interesting content
 -------------------------------
 
 If you want to run the Jupyter notebooks, you can either clone the repository
-and a local Jupyter server or click the mybinder link above.
+and a local Jupyter server or click the `mybinder link <https://mybinder.org/v2/gh/lumbric/python_git_programming_course/master`_ above.
 
 The most interesting files in this repository:
 
 .. parsed-literal::
 
-  ├── abstract_and_sessions.rst             more information about the workshop
-  ├── README.rst                            this file
+  ├── `abstract_and_sessions.rst <abstract_and_sessions.rst>`_             more information about the workshop
+  ├── `README.rst <README.rst>`_                            `this<README.rst>`_ file
   ├── session1_git_and_workflow
-  │   ├── git_commands                      a list of interesting GIT commands, sorted by importance
-  │   ├── git-games                         `GIT repository <https://github.com/lumbric/git-games/>`_ to try GIT commands while playing board games
-  │   ├── git.txt                           see https://m.xkcd.com/1597/
-  │   ├── links.rst                         helpful links about GIT
-  │   ├── notes.rst                         personal presenter notes, not sure if helpful for others, but this session was mostly presented on the white board, so this is the only available material
-  │   ├── slides.pdf                        slides as PDF
-  │   ├── slides-expanded.pdf               slides with interactive items as separate page
-  │   └── terminology.rst                   GIT terms covered in the workshop and those not covered
+  │   ├── `session1_git_and_workflow/git_commands <git_commands>`_                      a list of interesting GIT commands, sorted by importance
+  │   ├── `session1_git_and_workflow/git-games <git-games>`_                         `GIT repository <https://github.com/lumbric/git-games/>`_ to try GIT commands while playing board games
+  │   ├── `git.txt <session1_git_and_workflow/git.txt>`_                           see https://m.xkcd.com/1597/
+  │   ├── `links.rst <session1_git_and_workflow/links.rst>`_                         helpful links about GIT
+  │   ├── `notes.rst <session1_git_and_workflow/notes.rst>`_                         personal presenter notes, not sure if helpful for others, but this session was mostly presented on the white board, so this is the only available material
+  │   ├── `slides.pdf <session1_git_and_workflow/slides.pdf>`_                        slides as PDF
+  │   ├── `slides-expanded.pdf <session1_git_and_workflow/slides-expanded.pdf>`_               slides with interactive items as separate page
+  │   └── `terminology.rst <session1_git_and_workflow/terminology.rst>`_                   GIT terms covered in the workshop and those not covered
   ├── session2_python_and_programming
-  │   ├── slides_session2.html              slides exported to HTML, unfortunately SVG files broken
-  │   ├── slides_session2.ipynb             slides as Jupyter Notebok
-  │   ├── slides_session2.slides.html       slides exported to HTML, unfortunately SVG files broken (slightly different format, same thing as slides_session2.html)
-  │   └── slides_session2.slides.pdf        slides as PDF
+  │   ├── `slides_session2.html <session2_python_and_programming/slides_session2.html>`_              slides exported to HTML, unfortunately SVG files broken
+  │   ├── `slides_session2.ipynb <session2_python_and_programming/slides_session2.ipynb>`_             slides as Jupyter Notebok
+  │   ├── `slides_session2.slides.html <session2_python_and_programming/slides_session2.slides.html>`_       slides exported to HTML, unfortunately SVG files broken (slightly different format, same thing as slides_session2.html)
+  │   └── `slides_session2.slides.pdf <session2_python_and_programming/slides_session2.slides.pdf>`_        slides as PDF
   └── session3_scientific_ecosystem
       ├── code-samples
-      │   └── slow_average.py               Exercise: Find out why this code is terribly slow!
-      ├── example-notebook.ipynb            Example Jupyter notebook with some nice features
-      ├── links.rst                         helpful links about scientific Python
-      └── slides_session3.ipynb             Slides for Session 3 as Jupyter Notebook
+      │   └── `slow_average.py <session3_scientific_ecosystem/code-samples/slow_average.py>`_               Exercise: Find out why this code is terribly slow!
+      ├── `example-notebook.ipynb <session3_scientific_ecosystem/example-notebook.ipynb>`_            Example Jupyter notebook with some nice features
+      ├── `links.rst <session3_scientific_ecosystem/links.rst>`_                         helpful links about scientific Python
+      └── `slides_session3.ipynb <session3_scientific_ecosystem/slides_session3.ipynb>`_             Slides for Session 3 as Jupyter Notebook
+
 
 
 More interesting topics
