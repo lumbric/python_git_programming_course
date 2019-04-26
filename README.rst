@@ -15,7 +15,7 @@ Overview of interesting content
 -------------------------------
 
 If you want to run the Jupyter notebooks, you can either clone the repository
-and a local Jupyter server or click the `mybinder link <https://mybinder.org/v2/gh/lumbric/python_git_programming_course/master`_ above.
+and a local Jupyter server or click the `mybinder link <https://mybinder.org/v2/gh/lumbric/python_git_programming_course/master>`_ above.
 
 The most interesting files in this repository:
 
