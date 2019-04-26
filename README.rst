@@ -15,7 +15,7 @@ Overview of interesting content
 -------------------------------
 
 If you want to run the Jupyter notebooks, you can either clone the repository
-and a local Jupyter server or click the `mybinder link <https://mybinder.org/v2/gh/lumbric/python_git_programming_course/master>`_ above.
+and a local Jupyter server or click the `mybinder link <https://mybinder.org/v2/gh/lumbric/python_git_programming_course/master>`_ above or Google colab links below.
 
 The most interesting files in this repository:
 
@@ -24,8 +24,8 @@ The most interesting files in this repository:
   ├── `abstract_and_sessions.rst <abstract_and_sessions.rst>`_             more information about the workshop
   ├── `README.rst <README.rst>`_                            `this<README.rst>`_ file
   ├── session1_git_and_workflow
-  │   ├── `session1_git_and_workflow/git_commands <git_commands>`_                      a list of interesting GIT commands, sorted by importance
-  │   ├── `session1_git_and_workflow/git-games <git-games>`_                         `GIT repository <https://github.com/lumbric/git-games/>`_ to try GIT commands while playing board games
+  │   ├── `git_commands <session1_git_and_workflow/git_commands>`_                      a list of interesting GIT commands, sorted by importance
+  │   ├── git-games                         `GIT repository <https://github.com/lumbric/git-games/>`_ to try GIT commands while playing board games
   │   ├── `git.txt <session1_git_and_workflow/git.txt>`_                           see https://m.xkcd.com/1597/
   │   ├── `links.rst <session1_git_and_workflow/links.rst>`_                         helpful links about GIT
   │   ├── `notes.rst <session1_git_and_workflow/notes.rst>`_                         personal presenter notes, not sure if helpful for others, but this session was mostly presented on the white board, so this is the only available material
@@ -33,17 +33,16 @@ The most interesting files in this repository:
   │   ├── `slides-expanded.pdf <session1_git_and_workflow/slides-expanded.pdf>`_               slides with interactive items as separate page
   │   └── `terminology.rst <session1_git_and_workflow/terminology.rst>`_                   GIT terms covered in the workshop and those not covered
   ├── session2_python_and_programming
-  │   ├── `slides_session2.html <session2_python_and_programming/slides_session2.html>`_              slides exported to HTML, unfortunately SVG files broken
-  │   ├── `slides_session2.ipynb <session2_python_and_programming/slides_session2.ipynb>`_             slides as Jupyter Notebok
-  │   ├── `slides_session2.slides.html <session2_python_and_programming/slides_session2.slides.html>`_       slides exported to HTML, unfortunately SVG files broken (slightly different format, same thing as slides_session2.html)
+  │   ├── `slides_session2.html <session2_python_and_programming/slides_session2.html>`_              slides exported to HTML, unfortunately SVG files broken, `view HTML <https://htmlpreview.github.io/?https://github.com/lumbric/python_git_programming_course/blob/master/session2_python_and_programming/slides_session2.html>`_
+  │   ├── `slides_session2.ipynb <session2_python_and_programming/slides_session2.ipynb>`_             slides as Jupyter Notebok, `run it in Google colab <https://colab.research.google.com/github/lumbric/python_git_programming_course/blob/master/session2_python_and_programming/slides_session2.ipynb>`_
+  │   ├── `slides_session2.slides.html <session2_python_and_programming/slides_session2.slides.html>`_       slides exported to HTML, unfortunately SVG files broken (slightly different format, same thing as slides_session2.html), `view HTML <https://htmlpreview.github.io/?https://github.com/lumbric/python_git_programming_course/blob/master/session2_python_and_programming/slides_session2.slides.html>`_
   │   └── `slides_session2.slides.pdf <session2_python_and_programming/slides_session2.slides.pdf>`_        slides as PDF
   └── session3_scientific_ecosystem
       ├── code-samples
       │   └── `slow_average.py <session3_scientific_ecosystem/code-samples/slow_average.py>`_               Exercise: Find out why this code is terribly slow!
-      ├── `example-notebook.ipynb <session3_scientific_ecosystem/example-notebook.ipynb>`_            Example Jupyter notebook with some nice features
+      ├── `example-notebook.ipynb <session3_scientific_ecosystem/example-notebook.ipynb>`_            Example Jupyter notebook with some nice features, `run it in Google colab <https://colab.research.google.com/github/lumbric/python_git_programming_course/blob/master/session3_scientific_ecosystem/example-notebook.ipynb>`_
       ├── `links.rst <session3_scientific_ecosystem/links.rst>`_                         helpful links about scientific Python
-      └── `slides_session3.ipynb <session3_scientific_ecosystem/slides_session3.ipynb>`_             Slides for Session 3 as Jupyter Notebook
-
+      └── `slides_session3.ipynb <session3_scientific_ecosystem/slides_session3.ipynb>`_             Slides for Session 3 as Jupyter Notebook, `run it in Google colab <https://colab.research.google.com/github/lumbric/python_git_programming_course/blob/master/session3_scientific_ecosystem/slides_session3.ipynb>`_
 
 
 More interesting topics
