@@ -31,6 +31,8 @@ Commit message style guide
 How to write a good commit message
     https://chris.beams.io/posts/git-commit/
 
+Auto generate bad commit messages
+    http://whatthecommit.com/
 
 Workflow
 --------
