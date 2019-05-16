@@ -1,7 +1,12 @@
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/lumbric/python_git_programming_course/master
+.. |mybinder| image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/lumbric/python_git_programming_course/master
+   :alt: open in mybinder
+   
+.. |license| image:: https://img.shields.io/github/license/lumbric/python_git_programming_course.svg
+   :target: https://choosealicense.com/licenses/mit
+   :alt: MIT License
 
-Programming using Python, GIT and others in science
+Programming using Python, GIT and others in science  |license|  |mybinder| 
 ===================================================
 
 Slides and notes for a  _`workshop abstract_and_sessions.rst`_ about programming for scientists.
