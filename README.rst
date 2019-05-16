@@ -6,7 +6,9 @@
    :target: https://choosealicense.com/licenses/mit
    :alt: MIT License
 
-Programming using Python, GIT and others in science  |license|  |mybinder| 
+|license|  |mybinder| 
+ 
+Programming using Python, GIT and others in science
 ===================================================
 
 Slides and notes for a  _`workshop abstract_and_sessions.rst`_ about programming for scientists.
