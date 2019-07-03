@@ -11,7 +11,7 @@
 Programming using Python, GIT and others in science
 ===================================================
 
-Slides and notes for a  _`workshop abstract_and_sessions.rst`_ about programming for scientists.
+Slides and notes for a  `workshop <abstract_and_sessions.rst>`_ about programming for scientists.
 
 - Session 1: Organizing code and data: Advanced Git, Github and more
 - Session 2: How to make code beautiful: Python beyond basics
