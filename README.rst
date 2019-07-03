@@ -29,7 +29,7 @@ The most interesting files in this repository:
 .. parsed-literal::
 
   ├── `abstract_and_sessions.rst <abstract_and_sessions.rst>`_             more information about the workshop
-  ├── `README.rst <README.rst>`_                            `this<README.rst>`_ file
+  ├── `README.rst <README.rst>`_                            `this <README.rst>`_ file
   ├── session1_git_and_workflow
   │   ├── `git_commands <session1_git_and_workflow/git_commands>`_                      a list of interesting GIT commands, sorted by importance
   │   ├── git-games                         `GIT repository <https://github.com/lumbric/git-games/>`_ to try GIT commands while playing board games
