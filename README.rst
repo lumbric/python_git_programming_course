@@ -49,7 +49,9 @@ The most interesting files in this repository:
       │   └── `slow_average.py <session3_scientific_ecosystem/code-samples/slow_average.py>`_               Exercise: Find out why this code is terribly slow!
       ├── `example-notebook.ipynb <session3_scientific_ecosystem/example-notebook.ipynb>`_            Example Jupyter notebook with some nice features, `run it in Google colab <https://colab.research.google.com/github/lumbric/python_git_programming_course/blob/master/session3_scientific_ecosystem/example-notebook.ipynb>`_
       ├── `links.rst <session3_scientific_ecosystem/links.rst>`_                         helpful links about scientific Python
-      └── `slides_session3.ipynb <session3_scientific_ecosystem/slides_session3.ipynb>`_             Slides for Session 3 as Jupyter Notebook, `run it in Google colab <https://colab.research.google.com/github/lumbric/python_git_programming_course/blob/master/session3_scientific_ecosystem/slides_session3.ipynb>`_
+      ├── `slides_session3.html <session3_scientific_ecosystem/slides_session3.html>`_              slides exported to HTML, unfortunately SVG files broken, `view HTML <https://htmlpreview.github.io/?https://github.com/lumbric/python_git_programming_course/blob/master/session3_scientific_ecosystem/slides_session3.html>`_
+      ├── `slides_session3.ipynb <session3_scientific_ecosystem/slides_session3.ipynb>`_             Slides for Session 3 as Jupyter Notebook, `run it in Google colab <https://colab.research.google.com/github/lumbric/python_git_programming_course/blob/master/session3_scientific_ecosystem/slides_session3.ipynb>`_
+      └── `slides_session3.slides.html <session3_scientific_ecosystem/slides_session3.slides.html>`_       slides exported to HTML, unfortunately SVG files broken (slightly different format, same thing as slides_session3.html), `view HTML <https://htmlpreview.github.io/?https://github.com/lumbric/python_git_programming_course/blob/master/session3_scientific_ecosystem/slides_session3.slides.html>`_
 
 
 More interesting topics
